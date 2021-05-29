@@ -2,4 +2,11 @@
 Saya ingin Menjadi Data Scientist
 
 ## Screenshot
-![](R_basic.png )
+
+### ggplot.R
+
+![](image.png)
+
+### ggplot piechart.R
+
+![](R_basic.png)
